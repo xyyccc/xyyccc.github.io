@@ -6,14 +6,14 @@
 #### Language: English, Cantonese, Mandarin
 
 ## Education
-- MPhil in Artificial Intelligence @ HKUST(GZ) | Guangzhou, China (_2023-2025_)
+- MPhil in Artificial Intelligence @ HKUST(GZ) (_2023-2025_)
 > - Research Interests: Stable, Explainable and Fair Machine Learning in Health Care
 > - Cross-disciplinary research project: AI × Traditional Chinese Medicine (TCM)
 
-- MA in Buddhist @ HKU | Hong Kong SAR (_2022-2023_)
+- MA in Buddhist @ HKU (_2022-2023_)
 > - Research Interests: Zen Buddhism in Social Media, Religion and Women's Status, Effectiveness of Online Counseling
 
-- BBA(Hons) in Accounting and Finance @ HKPolyU | Hong Kong SAR (_2018-2022_)
+- BBA(Hons) in Accounting and Finance @ HKPolyU (_2018-2022_)
 > - Minor in Applied Mathematics
 > - Research Interests: Market Analysis, Business Digitalization in Blockchain, Quantitative Trading, Asset Pricing
 > - Achieve Dean's List Award during junior and senior years for outstanding academic performance
