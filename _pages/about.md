@@ -8,8 +8,12 @@ redirect_from:
 ---
 
 <div align="right">
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" height="150" width="" />
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" height="80" width="" />
 </div>  
+
+
+**Skills: Python, SQL**
+**Language: English, Cantonese, Mandarin**
 
 -  🤖 I am an MPhil student (AI Thrust/Information Hub) at HKUST(GZ).  
   
@@ -20,7 +24,7 @@ redirect_from:
 - 📝 I am currently working on a cross-disciplinary research project, AI × Traditional Chinese Medicine (TCM).  
   
 
-#### May each day be blessed with peace and harmony for you, me, and everyone 🙏  
+**May each day be blessed with peace and harmony for you, me, and everyone** 🙏  
 
 
 A data-driven personal website
