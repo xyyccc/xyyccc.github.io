@@ -7,28 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-
-🤖 I am an student (MPhil in AI @ HKUST(GZ)) advised by [Prof. Sean Sihong Xie](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie).
-  
-
-🌱 My research interests lie in Machine Learning Stability, Explainability, and Fairness.  
-  
-
-📝 I am currently working on
-- Cross-disciplinary Project: AI × Traditional Chinese Medicine (TCM)
-- MPhil thesis: Briging Causal Inference with Machine Learning  
-  
-
-**May each day be blessed with peace and harmony for you, me, and everyone** 🙏  
+May each day be blessed with peace and harmony for you, me, and everyone 🙏  
 
 
 Education
 ------
 **MPhil in Artificial Intelligence @ HKUST(GZ) (_2023-2025_)**
 
+- Academic Supervisor: [Prof. Sean Sihong Xie](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie).
+
 - Research Interests: Stable, Explainable, and Fair Machine Learning in Healthcare
 
-- Cross-disciplinary research project: AI × Traditional Chinese Medicine (TCM)
+- Cross-disciplinary Project: AI × Traditional Chinese Medicine (TCM)
 
 **MA in Buddhist Studies @ HKU (_2022-2023_)**
 
