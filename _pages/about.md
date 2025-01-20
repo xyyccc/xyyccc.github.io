@@ -13,7 +13,7 @@ redirect_from:
 **Language: English, Cantonese, Mandarin**
 
 
-🤖 I am an MPhil student (AI Thrust/Information Hub) at HKUST(GZ).  
+🤖 I am an MPhil student (AI Thrust/Information Hub) at HKUST(GZ), advised by [Prof. Sean Sihong Xie](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie).
   
 
 🌱 My research interests lie in Machine Learning Stability, Explainability, and Fairness.  
