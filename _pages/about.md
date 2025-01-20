@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 
-**Skills: Python, SQL**
-
-**Language: English, Cantonese, Mandarin**
-
-
 🤖 I am an MPhil student (AI Thrust/Information Hub) at HKUST(GZ), advised by [Prof. Sean Sihong Xie](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie).
   
 
@@ -40,3 +35,8 @@ Research Interests: Zen Buddhism in Social Media, Religion and Women's Status, E
 Minor in Applied Mathematics
 Research Interests: Market Analysis, Business Digitalization in Blockchain, Quantitative Trading, Asset Pricing
 Achieve Dean's List Award during junior and senior years for outstanding academic performance
+
+Others
+------
+Skills: Python, SQL
+Language: English, Cantonese, Mandarin
