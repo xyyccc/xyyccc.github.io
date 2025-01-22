@@ -8,6 +8,4 @@ redirect_from:
 
 Hi, I am happy to introduce my __Girfriend__ to you: Ms Xiaowei Shi!
 
-<div align="left">
-<img src="../images/xiaowei&xingyuan.jpeg" width=75%/>
-</div>  
+![是合照](../images/xiaowei&xingyuan.jpeg "Xiaowei & Xingyuan")
