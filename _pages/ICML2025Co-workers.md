@@ -7,7 +7,7 @@ redirect_from:
   - "/icml2025coworkers.html"
 ---
 
-Here are the Co-Wokers of _Robust and Adaptive Conformal Prediction via Branched Normalizing Flows (ICML 2025)_
+_Robust and Adaptive Conformal Prediction via Branched Normalizing Flows (submitted to ICML 2025)_
 
 陈伟燕 Weiyan Chen
 ------
