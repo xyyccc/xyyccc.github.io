@@ -8,7 +8,7 @@ redirect_from:
 
 Hi, I am happy to introduce my __Girfriend__ to you: Miss Xiaowei Shi!
 
-![是合照](./images/xiaowei&xingyuan.jpeg "Xiaowei & Xingyuan")
+![是合照](../images/xiaowei&xingyuan.jpeg "Xiaowei & Xingyuan")
 
 
 
