@@ -1,6 +1,6 @@
 ---
 permalink: /ICML2025Co-Workers/
-title: "ICML2025Co-Workers"
+title: "ICML2025 Co-Workers"
 author_profile: false 
 redirect_from: 
   - "/icml2025coworkers/"
