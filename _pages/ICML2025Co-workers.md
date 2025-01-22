@@ -21,4 +21,4 @@ Email: 18023781789@163.com
 
 黄敏萱 Minxuan Huang 
 ------
-Emal: huang_minxuan@foxmail.com
+Email: huang_minxuan@foxmail.com
